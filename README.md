@@ -29,4 +29,4 @@ Kali Purple (VirtualBox), Python (pwntools-style scripting, `struct`, scapy, Pil
 6. **Know when to park a challenge.** Moving on and coming back later beat burning hours on one problem.
 
 ## What's next
-Finishing my AAS in Network Administration & Cyber Security, continuing an MS in Computer Science, and doing more CTFs, with a focus on binary exploitation and network forensics on the way to AI/ML and cloud security.
+Finishing my MS in Computer Science, and doing more CTFs, with a focus on binary exploitation and network forensics on the way to AI/ML and cloud security.
